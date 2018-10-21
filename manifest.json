@@ -1,0 +1,9 @@
+{
+  "name": "First Time",
+  "version": "1.0",
+  "description": "Time To Learn",
+  "browser_action": {
+    "default_icon": "yt9d.ico",
+    "popup":"myPopup.html"
+  }
+}
